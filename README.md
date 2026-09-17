@@ -24,7 +24,6 @@ Hello, I'm **Pedro Muginski** — **ADS 5º ciclo** (2024–2027, 2800h) — foc
 [![POSTGRES](https://img.shields.io/badge/postgres-000000?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![SUPABASE](https://img.shields.io/badge/supabase-000000?style=for-the-badge&logo=supabase&logoColor=white)]()
 [![POSTMAN](https://img.shields.io/badge/postman-000000?style=for-the-badge&logo=postman&logoColor=white)]()
-[![CYPRESS](https://img.shields.io/badge/cypress-000000?style=for-the-badge&logo=cypress&logoColor=white)]()
 [![RESTASSURED](https://img.shields.io/badge/restassured-000000?style=for-the-badge&logo=junit5&logoColor=white)]()
 [![IA](https://img.shields.io/badge/IA_Muse_Spark-000000?style=for-the-badge&logo=openai&logoColor=white)]()
 
