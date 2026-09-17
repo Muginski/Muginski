@@ -24,9 +24,7 @@ Hello, I'm **Pedro Muginski** — **Fatec Praia Grande, ADS 5º ciclo** (2024–
 [![LARAVEL](https://img.shields.io/badge/laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)]()
 [![NODEJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
 [![MYSQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![POSTGRESQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![SUPABASE](https://img.shields.io/badge/supabase-000000?style=for-the-badge&logo=supabase&logoColor=white)]()
-[![DOCKER](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white)]()
 [![GIT](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)]()
 [![POSTMAN](https://img.shields.io/badge/postman-000000?style=for-the-badge&logo=postman&logoColor=white)]()
 
