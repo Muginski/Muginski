@@ -84,19 +84,6 @@ Trabalho diário no **tripé Back-End · QA · IA**, com **IA como principal ace
 
 ---
 
-#### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Muginski&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=fff&text_color=fff&icon_color=fff" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muginski&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=fff&text_color=fff" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Muginski&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
-
-</div>
-
----
-
 #### 🌐 Contato
 
 [![LINKEDIN](https://img.shields.io/badge/linkedin.com%2Fin%2Fpedro--muginski-000000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-muginski)
