@@ -1,18 +1,18 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=Muginski&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Dimi%20—%20ADS%204º%20sem%20•%20QA%20Automation%20•%20Fullstack&descAlignY=58&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=Pedro%20Muginski&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Back--End%20•%20Banco%20de%20Dados%20•%20ADS%202024-2027&descAlignY=58&descAlign=50" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=ADS+4º+semestre+•+Foco+em+QA+e+Automação;Next.js+15+%2B+Supabase+%2B+Cypress+%2B+RestAssured;PressLink+TCC+•+SaaS+para+DJs+freelancers)](https://git.io/typing-svg)](#)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Desenvolvedor+Back-End+em+formação+—+Praia+Grande%2C+SP;Java+17+%7C+Node.js+%7C+MySQL+%7C+Supabase+%7C+PostgreSQL;Modelagem+Relacional+%2B+BFF+%2B+API+REST+%2B+Postman)](https://git.io/typing-svg)](#)
 
 </div>
 
-## Dimi — Muginski
+## Pedro Muginski — Muginski
 
-Hello, I'm **Dimi**, ADS 4th semester student and QA Automation enthusiast from Brazil. I don't chase perfect systems — I chase systems that survive reality and pass the tests.
+Hello, I'm **Pedro Muginski** from Praia Grande, SP — **Desenvolvedor Back-End / Analista de Banco de Dados** em formação (ADS 2024–2027). Busco oportunidade **Estágio / Trainee / Júnior**.
 
-Currently building **PressLink** (TCC) — SaaS EPK for freelance DJs (`Next.js 15 / Supabase / Vercel`) and studying **Test Automation** in `F:/Estudos-Automacao` (`Java + RestAssured + Cypress`). Second brain: `F:/BrainSecondary` with Obsidian + Wiki (Karpathy pattern).
+> Não busco sistemas perfeitos. Busco sistemas que **sobrevivem à realidade** — com banco bem modelado, API estável e testes que garantem.
 
-> Focus: **Test Pyramid • API Testing • E2E • Supabase RLS • Zod + RHF**
+Atualmente: **ADS Tecnólogo (2024–2027)** + **Técnico em Informática para Internet (ETEC 2024–2025)** + **Técnico em Informática Suporte (ETEC 2023–2024)**. Foco em **Back-End, Modelagem Relacional e BFF**. Segundo cérebro em `Obsidian` (`F:/BrainSecondary`).
 
 <div align="center">
 
@@ -24,32 +24,54 @@ Currently building **PressLink** (TCC) — SaaS EPK for freelance DJs (`Next.js 
 
 ---
 
-#### 🚀 Projetos em destaque
+#### 🎯 Objetivo
 
-| Projeto | Stack | Descrição |
-|---|---|---|
-| **[PressLink](https://github.com/AndersonFQueiroz/PressLink)** | `Next.js 15` `Supabase` `Tailwind` `Zod` | SaaS EPK para DJs — TCC 22 issues, 4 PRs meus (`#7` `#10` `#11` + `#13` galeria em progresso) |
-| **[Estudos-Automacao](https://github.com/Muginski/Estudos-Automacao)** | `Java` `RestAssured` `Cypress` | Pirâmide de testes na prática — `api-restassured/` + `front-cypress/` + `docs/` |
-| **[NextCut](https://github.com/AndersonFQueiroz/NextCut)** | `Next.js` `JS` | Fila virtual para barbearias — senha virtual + realtime |
+**Desenvolvedor Back-End — Júnior / Trainee / Estágio** · **Analista de Banco de Dados** · **Desenvolvedor Node.js**
+
+> Aberto a remoto / híbrido — Praia Grande, SP
 
 ---
 
-#### 🧰 Technologies and tools
+#### 🚀 Projetos em destaque
+
+| Projeto | Stack | Meu papel |
+|---|---|---|
+| **[NextCut](https://github.com/AndersonFQueiroz/NextCut)** — Fila Virtual para Barbearias | `Java 17` `Javalin` `JDBC` `Supabase` `PostgreSQL` `React` `WebSocket` | Modelagem completa do BD relacional (`barber`, `queue_entries`), FIFO, tipos/relacionamentos, unicidade telefone + ponto de apoio técnico + merge/integração de branches |
+| **[WIMS — Where I'm Spot](https://github.com/Muginski)** — TCC ETEC 2023–2024 | `MySQL` `PHP` `API REST` `JSON` `Postman` | Sistema de gestão e localização de vagas — normalização, relacionamentos, otimização de consultas + criação/documentação da API REST + testes via Postman |
+| **[PlayConnect](https://github.com/Muginski)** — Matchmaking Gamer 2024–2025 | `Node.js` `TypeScript` `MySQL` `BFF` `Supabase` | Plataforma que conecta jogadores por afinidade — arquitetura completa do BD + camada BFF centralizando comunicação, reduzindo acoplamento e melhorando performance |
+| **[PressLink](https://github.com/AndersonFQueiroz/PressLink)** — TCC ADS SaaS EPK DJs | `Next.js 15` `Supabase` `Tailwind` `Zod` | Colaboração TCC 22 issues — 4 PRs meus: `#7 Cadastro LGPD` `#10 Painel Layout` `#11 Perfil` + `#13 Galeria` em progresso |
+| **[Estudos-Automacao](https://github.com/Muginski/Estudos-Automacao)** — Pirâmide de Testes | `Java` `RestAssured` `Cypress` `JUnit` | Repositório prático `api-restassured/` + `front-cypress/` — automação estudada na conversa com Fe |
+
+---
+
+#### 🧰 Hard Skills
 
 [![JAVA](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=white)]()
-[![TYPESCRIPT](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![PHP](https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php&logoColor=white)]()
+[![LARAVEL](https://img.shields.io/badge/laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)]()
 [![JAVASCRIPT](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)]()
-[![NEXTJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
-[![REACT](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white)]()
-[![TAILWIND](https://img.shields.io/badge/tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)]()
-[![SPRING](https://img.shields.io/badge/spring-000000?style=for-the-badge&logo=spring&logoColor=white)]()
-[![CYPRESS](https://img.shields.io/badge/cypress-000000?style=for-the-badge&logo=cypress&logoColor=white)]()
-[![RESTASSURED](https://img.shields.io/badge/rest_assured-000000?style=for-the-badge&logo=junit5&logoColor=white)]()
-[![SUPABASE](https://img.shields.io/badge/supabase-000000?style=for-the-badge&logo=supabase&logoColor=white)]()
+[![TYPESCRIPT](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![NODEJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
+[![API](https://img.shields.io/badge/API_REST-000000?style=for-the-badge&logo=postman&logoColor=white)]()
+[![BFF](https://img.shields.io/badge/BFF-000000?style=for-the-badge&logo=nginx&logoColor=white)]()
+[![MYSQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![POSTGRESQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)]()
-[![DOCKER](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white)]()
-[![VERCEL](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)]()
+[![SUPABASE](https://img.shields.io/badge/supabase-000000?style=for-the-badge&logo=supabase&logoColor=white)]()
+[![POSTMAN](https://img.shields.io/badge/postman-000000?style=for-the-badge&logo=postman&logoColor=white)]()
 [![GIT](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)]()
+[![GITHUB](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)]()
+[![CURSOR](https://img.shields.io/badge/cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)]()
+[![OBSIDIAN](https://img.shields.io/badge/obsidian-000000?style=for-the-badge&logo=obsidian&logoColor=white)]()
+
+`Back-End & Runtime: Node.js • API REST/JSON • BFF • Javalin • JDBC` · `BD: MySQL • Supabase • PostgreSQL • Modelagem Relacional` · `Ferramentas: Postman • Git • Cursor • Gemini CLI • Obsidian` · `Inglês: Intermediário`
+
+---
+
+#### 🎓 Formação
+
+- **Análise e Desenvolvimento de Sistemas — Tecnólogo (cursando) 2024–2027**
+- **Técnico em Informática para Internet (Web) — ETEC 2024–2025**
+- **Técnico em Informática (Suporte) — ETEC 2023–2024**
 
 ---
 
@@ -68,10 +90,9 @@ Currently building **PressLink** (TCC) — SaaS EPK for freelance DJs (`Next.js 
 
 #### 🌐 Socials
 
-[![GITHUB](https://img.shields.io/badge/Muginski-000000?style=flat&logo=github&logoColor=white)](https://github.com/Muginski)
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN/)
-[![INSTAGRAM](https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=white)](https://instagram.com/SEU-INSTA)
-<!-- [![PORTFOLIO](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://seu-portfolio.vercel.app) -->
+[![LINKEDIN](https://img.shields.io/badge/linkedin.com%2Fin%2Fpedro--muginski-000000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-muginski)
+[![GITHUB](https://img.shields.io/badge/github.com%2FMuginski-000000?style=flat&logo=github&logoColor=white)](https://github.com/Muginski)
+[![EMAIL](https://img.shields.io/badge/Praia%20Grande-SP-000000?style=flat&logo=gmail&logoColor=white)](#)
 
 ---
 
@@ -79,6 +100,6 @@ Currently building **PressLink** (TCC) — SaaS EPK for freelance DJs (`Next.js 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&text=&fontSize=0" />
 
-*“Segundo cérebro em Obsidian — tudo conectado em 1-2 hops. PressLink → Estudos → Automação.”*
+*“Modelagem bem feita + BFF desacoplado + testes que garantem — é isso que faz sistema sobreviver.”*
 
 </div>
