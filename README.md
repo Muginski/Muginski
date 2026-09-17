@@ -67,36 +67,20 @@ Trabalho diário com **IA como par de programação**, não só autocomplete:
 
 ---
 
-#### 🧰 Hard Skills — acertividade para ATS (júnior/trainee)
-
-**Baseado em currículos com alta taxa de aprovação para Back-End Júnior (Gupy/LinkedIn) + grade Fatec PG 5º ciclo:**
+#### Technologies and tools
 
 [![JAVA](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=white)]()
-[![NODEJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
-[![TYPESCRIPT](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![JAVASCRIPT](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)]()
+[![TYPESCRIPT](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![PHP](https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php&logoColor=white)]()
 [![LARAVEL](https://img.shields.io/badge/laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)]()
-[![API](https://img.shields.io/badge/API_REST-000000?style=for-the-badge&logo=postman&logoColor=white)]()
-[![BFF](https://img.shields.io/badge/BFF_Pattern-000000?style=for-the-badge&logo=nginx&logoColor=white)]()
+[![NODEJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
 [![MYSQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![POSTGRESQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![SUPABASE](https://img.shields.io/badge/supabase-000000?style=for-the-badge&logo=supabase&logoColor=white)]()
 [![DOCKER](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white)]()
 [![GIT](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)]()
 [![POSTMAN](https://img.shields.io/badge/postman-000000?style=for-the-badge&logo=postman&logoColor=white)]()
-[![TESTING](https://img.shields.io/badge/testing-Cypress%20%7C%20RestAssured-000000?style=for-the-badge&logo=cypress&logoColor=white)]()
-[![IA](https://img.shields.io/badge/IA-Gemini%20CLI%20%7C%20Cursor%20%7C%20opencode-000000?style=for-the-badge&logo=openai&logoColor=white)]()
-
-```
-Linguagens:    Java 17 • JavaScript • TypeScript • PHP • SQL
-Back-End:      Node.js • Javalin • JDBC • API REST/JSON • BFF • WebSocket
-Banco:         MySQL • PostgreSQL • Supabase • Modelagem Relacional • Normalização • FIFO
-Testes/QA:     JUnit • RestAssured • Cypress • Postman • TDD • Caixa branca/preta • Regressão
-DevOps/Outros: Git/GitHub • Docker • Vercel • LGPD • Scrum • Gestão de Projetos
-IA/Produtividade: Gemini CLI • Cursor • Muse Spark (opencode, 1290 skills) • Obsidian Wiki
-Idiomas:       Português (nativo) • Inglês intermediário (leitura técnica)
-```
 
 ---
 
