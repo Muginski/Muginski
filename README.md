@@ -56,7 +56,7 @@ Trabalho diário no **tripé Back-End · QA · IA**, com **IA como principal ace
 - **Back-End** — modelagem relacional + BFF (Java 17/Javalin/JDBC, Node.js/TS, PHP/Laravel, MySQL/Postgres/Supabase) — NextCut/WIMS/PlayConnect do zero
 - **QA** — pirâmide de testes com TDD: `F:/Estudos-Automacao` (`api-restassured/` RestAssured/JUnit + `front-cypress/` Cypress + Postman), caixa branca/preta, regressão, testes gerados por IA
 - **IA como par** — **Muse Spark — opencode** (1290 skills, boot `ler` em 1 leitura) + **Gemini CLI + Cursor** — gera validators Zod, cenários de teste, massa e asserts, reviews e refactors; eu valido regra de negócio e BD
-- **Segundo cérebro** `F:/BrainSecondary` (Obsidian Wiki Karpathy) — `wiki/index + log + overview` — ingest automático via `opencode` agents, grafo 1-2 hops via `NUCLEO.md`
+- **Segundo cérebro** `BrainSecondary` (Obsidian Wiki Karpathy) — `wiki/index + log + overview` — ingest automático via `opencode` agents, grafo 1-2 hops via `NUCLEO.md`
 - **Workflow:** ideia → `00-inbox/` → agente classifica/conecta → `01-notas/` → `02-projetos/` → PR com `lint 0 / tsc 0 / build ✓`
 
 > Resultado: **Back-End sólido, QA garantido e IA acelerando** — entrego mais rápido sem perder rigor: código comentado, testado e rastreável.
