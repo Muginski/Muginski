@@ -15,9 +15,20 @@ Hello, I'm **Pedro Muginski** — **Fatec Praia Grande, ADS 5º ciclo** (2024–
 
 <div align="center">
 
-[![FOLLOW](https://custom-icon-badges.demolab.com/github/followers/Muginski?color=000000&label=FOLLOW&logo=github&logoColor=white&style=for-the-badge&labelColor=000000)](https://github.com/Muginski?tab=followers)
-[![STARS](https://custom-icon-badges.demolab.com/github/stars/Muginski?color=000000&label=STARS&logo=star&logoColor=white&style=for-the-badge&labelColor=000000)](https://github.com/Muginski?tab=repositories&sort=stargazers)
-[![FATEC](https://img.shields.io/badge/Fatec%20PG-ADS%205º%20ciclo-000000?style=for-the-badge&logo=graduationcap&logoColor=white)](https://fatecpg.cps.sp.gov.br/analise-e-desenvolvimento-de-sistemas/)
+#### Technologies and tools
+
+[![JAVA](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=white)]()
+[![JAVASCRIPT](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)]()
+[![TYPESCRIPT](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![PHP](https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php&logoColor=white)]()
+[![LARAVEL](https://img.shields.io/badge/laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)]()
+[![NODEJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
+[![MYSQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![POSTGRESQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![SUPABASE](https://img.shields.io/badge/supabase-000000?style=for-the-badge&logo=supabase&logoColor=white)]()
+[![DOCKER](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white)]()
+[![GIT](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)]()
+[![POSTMAN](https://img.shields.io/badge/postman-000000?style=for-the-badge&logo=postman&logoColor=white)]()
 
 </div>
 
@@ -65,22 +76,6 @@ Trabalho diário com **IA como par de programação**, não só autocomplete:
 | **[PressLink](https://github.com/AndersonFQueiroz/PressLink)** — TCC ADS SaaS EPK DJs | `Next.js 15` `Supabase` `Tailwind` `Zod` `RHF` | 4 PRs: `#7 Cadastro LGPD` `#10 Painel` `#11 Perfil` + `#13 Galeria` (5º ciclo) |
 | **[Estudos-Automacao](https://github.com/Muginski/Estudos-Automacao)** — Pirâmide de Testes | `Java` `RestAssured` `Cypress` `JUnit` | `api-restassured/` + `front-cypress/` — testes com IA |
 
----
-
-#### Technologies and tools
-
-[![JAVA](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=white)]()
-[![JAVASCRIPT](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)]()
-[![TYPESCRIPT](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![PHP](https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php&logoColor=white)]()
-[![LARAVEL](https://img.shields.io/badge/laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)]()
-[![NODEJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
-[![MYSQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![POSTGRESQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)]()
-[![SUPABASE](https://img.shields.io/badge/supabase-000000?style=for-the-badge&logo=supabase&logoColor=white)]()
-[![DOCKER](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white)]()
-[![GIT](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)]()
-[![POSTMAN](https://img.shields.io/badge/postman-000000?style=for-the-badge&logo=postman&logoColor=white)]()
 
 ---
 
