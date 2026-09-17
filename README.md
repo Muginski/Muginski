@@ -37,8 +37,8 @@ Atualmente: **ADS Tecnólogo (2024–2027)** + **Técnico em Informática para I
 | Projeto | Stack | Meu papel |
 |---|---|---|
 | **[NextCut](https://github.com/AndersonFQueiroz/NextCut)** — Fila Virtual para Barbearias | `Java 17` `Javalin` `JDBC` `Supabase` `PostgreSQL` `React` `WebSocket` | Modelagem completa do BD relacional (`barber`, `queue_entries`), FIFO, tipos/relacionamentos, unicidade telefone + ponto de apoio técnico + merge/integração de branches |
-| **[WIMS — Where I'm Spot](https://github.com/Muginski)** — TCC ETEC 2023–2024 | `MySQL` `PHP` `API REST` `JSON` `Postman` | Sistema de gestão e localização de vagas — normalização, relacionamentos, otimização de consultas + criação/documentação da API REST + testes via Postman |
-| **[PlayConnect](https://github.com/Muginski)** — Matchmaking Gamer 2024–2025 | `Node.js` `TypeScript` `MySQL` `BFF` `Supabase` | Plataforma que conecta jogadores por afinidade — arquitetura completa do BD + camada BFF centralizando comunicação, reduzindo acoplamento e melhorando performance |
+| **WIMS — Where I'm Spot** — TCC ETEC 2023–2024 *(sem repo público)* | `MySQL` `PHP` `API REST` `JSON` `Postman` | Sistema de gestão e localização de vagas — normalização, relacionamentos, otimização de consultas + criação/documentação da API REST + testes via Postman |
+| **PlayConnect** — Matchmaking Gamer 2024–2025 *(sem repo público)* | `Node.js` `TypeScript` `MySQL` `BFF` `Supabase` | Plataforma que conecta jogadores por afinidade — arquitetura completa do BD + camada BFF centralizando comunicação, reduzindo acoplamento e melhorando performance |
 | **[PressLink](https://github.com/AndersonFQueiroz/PressLink)** — TCC ADS SaaS EPK DJs | `Next.js 15` `Supabase` `Tailwind` `Zod` | Colaboração TCC 22 issues — 4 PRs meus: `#7 Cadastro LGPD` `#10 Painel Layout` `#11 Perfil` + `#13 Galeria` em progresso |
 | **[Estudos-Automacao](https://github.com/Muginski/Estudos-Automacao)** — Pirâmide de Testes | `Java` `RestAssured` `Cypress` `JUnit` | Repositório prático `api-restassured/` + `front-cypress/` — automação estudada na conversa com Fe |
 
