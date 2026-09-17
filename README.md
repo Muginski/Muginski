@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=Pedro%20Muginski&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Fatec%20PG%20•%20ADS%205º%20ciclo%20•%20Back--End%20%7C%20BD%20%7C%20IA&descAlignY=58&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=Pedro%20Muginski&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=&descAlignY=58&descAlign=50" />
 
 <div align="center">
 
