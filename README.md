@@ -2,31 +2,31 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Java+%7C+Node.js+%7C+MySQL+%7C+Supabase+%7C+PostgreSQL;Modelagem+Relacional+%2B+BFF+%2B+API+REST+%2B+Testes+%2B+IA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Back-End+%7C+QA+%7C+IA+%E2%80%94+IA--first;Java+%7C+Node.js+%7C+BFF+%7C+RestAssured%2FCypress+%7C+TDD)](https://git.io/typing-svg)
 
 
 </div>
 
 ## Pedro Muginski — Muginski
 
-Hello, I'm **Pedro Muginski** — **Fatec Praia Grande, ADS 5º ciclo** (2024–2027, 2800h) — focado em **Desenvolvedor Back-End / Analista de BD — Estágio/Trainee/Júnior**.
+Hello, I'm **Pedro Muginski** — **ADS 5º ciclo** (2024–2027, 2800h) — focado em **Back-End · QA · IA (IA como diferencial) — Estágio/Trainee/Júnior**.
 
-> Não busco sistemas perfeitos. Busco sistemas que **sobrevivem à realidade** — banco bem modelado, API estável, testes que garantem e IA que acelera.
+> Não busco sistemas perfeitos. Busco sistemas que **sobrevivem à realidade** — **Back-End sólido, QA garantido e IA acelerando** — banco bem modelado, API estável, testes que garantem e IA como par.
 
 <div align="center">
 
-#### Technologies and tools
+#### Back-End · QA · IA — Tripé técnico (IA-first)
 
 [![JAVA](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=white)]()
-[![JAVASCRIPT](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)]()
-[![TYPESCRIPT](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![PHP](https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php&logoColor=white)]()
-[![LARAVEL](https://img.shields.io/badge/laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)]()
 [![NODEJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
+[![BFF](https://img.shields.io/badge/BFF-000000?style=for-the-badge&logo=greasyfork&logoColor=white)]()
 [![MYSQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![POSTGRES](https://img.shields.io/badge/postgres-000000?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![SUPABASE](https://img.shields.io/badge/supabase-000000?style=for-the-badge&logo=supabase&logoColor=white)]()
-[![GIT](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)]()
 [![POSTMAN](https://img.shields.io/badge/postman-000000?style=for-the-badge&logo=postman&logoColor=white)]()
+[![CYPRESS](https://img.shields.io/badge/cypress-000000?style=for-the-badge&logo=cypress&logoColor=white)]()
+[![RESTASSURED](https://img.shields.io/badge/restassured-000000?style=for-the-badge&logo=junit5&logoColor=white)]()
+[![IA](https://img.shields.io/badge/IA_Muse_Spark-000000?style=for-the-badge&logo=openai&logoColor=white)]()
 
 </div>
 
@@ -50,17 +50,17 @@ Hello, I'm **Pedro Muginski** — **Fatec Praia Grande, ADS 5º ciclo** (2024–
 
 ---
 
-#### 🤖 Rotina com IA — meu diferencial
+#### 🤖 Back-End · QA · IA — IA como diferencial
 
-Trabalho diário com **IA como par de programação**, não só autocomplete:
+Trabalho diário no **tripé Back-End · QA · IA**, com **IA como principal acelerador** (não só autocomplete):
 
-- **Segundo cérebro** `F:/BrainSecondary` (Obsidian + Wiki Karpathy pattern) — `wiki/index + log + overview` — ingest automático de PDFs/vídeos via `opencode` agents
-- **Muse Spark — opencode** (antigravity) — agente local com 1290 skills, boot `ler` em 1 leitura, tasks paralelas (`Task` subagents), gera código comentado e conectado em 1-2 hops via `NUCLEO.md`
-- **Gemini CLI + Cursor** — produtividade back-end: geração de validators Zod, testes Postman/RestAssured, reviews, refactors
-- **Automação QA** — `F:/Estudos-Automacao` (`api-restassured/` + `front-cypress/`) — pirâmide de testes aplicada com IA gerando cenários, massa e asserts
+- **Back-End** — modelagem relacional + BFF (Java 17/Javalin/JDBC, Node.js/TS, PHP/Laravel, MySQL/Postgres/Supabase) — NextCut/WIMS/PlayConnect do zero
+- **QA** — pirâmide de testes com TDD: `F:/Estudos-Automacao` (`api-restassured/` RestAssured/JUnit + `front-cypress/` Cypress + Postman), caixa branca/preta, regressão, testes gerados por IA
+- **IA como par** — **Muse Spark — opencode** (1290 skills, boot `ler` em 1 leitura) + **Gemini CLI + Cursor** — gera validators Zod, cenários de teste, massa e asserts, reviews e refactors; eu valido regra de negócio e BD
+- **Segundo cérebro** `F:/BrainSecondary` (Obsidian Wiki Karpathy) — `wiki/index + log + overview` — ingest automático via `opencode` agents, grafo 1-2 hops via `NUCLEO.md`
 - **Workflow:** ideia → `00-inbox/` → agente classifica/conecta → `01-notas/` → `02-projetos/` → PR com `lint 0 / tsc 0 / build ✓`
 
-> Resultado: entrego mais rápido sem perder rigor — código sempre comentado, testado e rastreável.
+> Resultado: **Back-End sólido, QA garantido e IA acelerando** — entrego mais rápido sem perder rigor: código comentado, testado e rastreável.
 
 ---
 
@@ -79,7 +79,7 @@ Trabalho diário com **IA como par de programação**, não só autocomplete:
 
 #### 🎓 Formação
 
-- **Fatec Praia Grande — ADS — 5º ciclo (2024–2027)** — 2800h, vespertino/noturno — *em curso*
+- **ADS — Análise e Desenvolvimento de Sistemas — 5º ciclo (2024–2027)** — 2800h — *em curso* — foco Back-End · QA · IA
 - **ETEC — Técnico em Informática para Internet (Web) — 2024–2025** — concluído
 - **ETEC — Técnico em Informática (Suporte) — 2023–2024** — concluído
 
@@ -110,6 +110,6 @@ Trabalho diário com **IA como par de programação**, não só autocomplete:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&text=&fontSize=0" />
 
-*“Fatec PG 5º ciclo + segundo cérebro com IA — código comentado, banco normalizado, teste automatizado.”*
+*“ADS 5º ciclo · Back-End · QA · IA (IA-first) — código comentado, banco normalizado, teste automatizado.”*
 
 </div>
